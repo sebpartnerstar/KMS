@@ -1,3 +1,7 @@
 .img_down:hover{
   content:url("https://raw.githubusercontent.com/sebpartnerstar/KMS/master/download_hover2.png");
 }
+.divGen{
+  width: 700px;
+  margin: auto;
+}
